@@ -9,3 +9,6 @@ This project aims to develop an initial heuristic-based solution to allocate ste
 <h1>Additional Features</h1> <hr>
 An ML model based on RandomForest classification to predict Coil placement. <br>
 **Note**: This feature is an additional component added out of curiosity. Although it has an accuracy of 80%, it is recommended to rely primarily on the heuristic.
+
+<h1>Code</h1> <hr>
+check out this link if code doesnt show up https://nbviewer.org/github/jinx720/wagonplanningproject/blob/main/rpp%20%281%29.ipynb
